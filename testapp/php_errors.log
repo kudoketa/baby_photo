@@ -1,0 +1,5 @@
+[31-Mar-2017 04:39:59 UTC] PHP Parse error:  syntax error, unexpected 'date_default_timezone_set' (T_STRING) in /home/ubuntu/workspace/testapp/config/bootstrap.php on line 103
+[31-Mar-2017 04:39:59 UTC] PHP Stack trace:
+[31-Mar-2017 04:39:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/testapp/webroot/index.php:0
+[31-Mar-2017 04:39:59 UTC] PHP   2. Cake\Http\Server->run() /home/ubuntu/workspace/testapp/webroot/index.php:37
+[31-Mar-2017 04:39:59 UTC] PHP   3. Cake\Http\BaseApplication->bootstrap() /home/ubuntu/workspace/testapp/vendor/cakephp/cakephp/src/Http/Server.php:72
